@@ -61,6 +61,9 @@ export default function Home() {
       </section>
 
       <section className="w-full max-w-4xl mx-auto py-16 px-4">
+        <div>
+          
+        </div>
         <div className="text-left">
           <div className="w-full max-w-2xl">
             <form className="space-y-6 bg-white p-8 rounded-lg shadow-lg">
